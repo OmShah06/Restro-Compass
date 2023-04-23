@@ -3,7 +3,7 @@
 Future Ready Talent - Internship Project
 
 ## Website Deployed Link: https://happy-grass-0d36c2610.3.azurestaticapps.net/
-Live Demo (YouTube Video) : https://youtu.be/X2stR0YRbf8
+Live Demo (YouTube Video) : https://youtu.be/YQG1sZsjT_Q
 
 # Project Description: 
 A restaurant finder website that is RestroCompass is an online platform that helps users find and discover restaurants in their area or in a specific location. The website provides a database of restaurants, including information such as the restaurant's name, location, cuisine type, menu, prices, ratings, reviews, and photos. 
